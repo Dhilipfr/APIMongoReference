@@ -1,0 +1,10 @@
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\bin\Debug\netcoreapp3.1\Laundry.Common.deps.json
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\bin\Debug\netcoreapp3.1\Laundry.Common.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\bin\Debug\netcoreapp3.1\Laundry.Common.pdb
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.AssemblyInfoInputs.cache
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.AssemblyInfo.cs
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.csproj.CoreCompileInputs.cache
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.pdb
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Common\obj\Debug\netcoreapp3.1\Laundry.Common.csproj.AssemblyReference.cache

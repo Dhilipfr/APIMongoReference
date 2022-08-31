@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.28" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Laundry.Business\Laundry.Business.csproj" />
+    <ProjectReference Include="..\Laundry.Common\Laundry.Common.csproj" />
+    <ProjectReference Include="..\Laundry.Core\Laundry.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

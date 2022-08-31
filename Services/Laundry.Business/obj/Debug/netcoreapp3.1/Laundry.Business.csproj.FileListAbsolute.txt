@@ -1,0 +1,15 @@
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Business.deps.json
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Business.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Business.pdb
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Common.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Core.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Core.pdb
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\bin\Debug\netcoreapp3.1\Laundry.Common.pdb
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.csproj.AssemblyReference.cache
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.AssemblyInfoInputs.cache
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.AssemblyInfo.cs
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.csproj.CoreCompileInputs.cache
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.csproj.CopyComplete
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.dll
+D:\Dhilip\Project\laundry_management\Laundry.Management\Services\Laundry.Business\obj\Debug\netcoreapp3.1\Laundry.Business.pdb
